@@ -1,0 +1,21 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  text-align: center;
+}
+.junior {
+  float: left;
+  width: 40%
+}
+.sidebar {
+  width: 30%
+  float: right;
+  background-color: #ffdd99; 
+}
+.column {
+  width: 30%;
+  float: left;
+  background-color: #ffdd99; 
+}
