@@ -25,6 +25,7 @@ html {
   background-color: #ffdd99;
   border: 6px solid #ffdd99;
   margin: 10px;
+  padding: 3px;
 }
 .column {
   width: 30%;
@@ -37,6 +38,9 @@ html {
 .column h3 {
   font-family: cursive;
   border: 2px solid #fac253
+}
+.column:hover{
+  background-color: #cc8800;
 }
 .pool {
   width: 50%;
